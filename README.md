@@ -1,5 +1,5 @@
 # UnixCProgramming--Project-1
-
+**Score Achieved: 100%**
 In my second year, I was given my first assignment for the Unix and C Programming unit. The assignment required me to design and implement a simple game playable on a Linux terminal. The game was a basic box terminal maze, and all the specifications were provided in detail.
 
 We were directed to watch supplementary videos available on the Blackboard assignment link. These videos demonstrated the desired functionality of the final program. The objective was clear - to code an executable game following specific parameters and requirements.
